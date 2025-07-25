@@ -1,2 +1,2 @@
 # Proyectos
-Una sesión de proyectos de datos es donde transformo datos crudos en conocimiento accionable. Me enfoco en el análisis profundo, el modelado predictivo y la visualización de resultados para resolver problemas específicos o descubrir nuevas oportunidades.
+Me sumerjo en el análisis exhaustivo, desarrollo modelos predictivos y creo visualizaciones claras para abordar desafíos concretos o destapar nuevas posibilidades. Veo esto como una oportunidad de crear soluciones donde mi conocimiento técnico se une a los datos del negocio para guiar decisiones estratégicas y pulir operaciones. Mi meta es entregar soluciones sólidas y adaptables que generen un impacto real, desde descubrir patrones clave hasta poner en marcha prototipos innovadores.
